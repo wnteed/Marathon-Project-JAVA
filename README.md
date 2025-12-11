@@ -83,6 +83,3 @@ This project was developed by:
 - **Yasser LAKRAIMI** - [yasserlk27@gmail.com](mailto:yasserlk27@gmail.com)
 
 For questions or support, please feel free to contact either contributor.
-- **Yasser LAKRAIMI** - [yasserlk27@gmail.com](mailto:yasserlk27@gmail.com)
-
-For questions or support, please feel free to contact either contributor.
